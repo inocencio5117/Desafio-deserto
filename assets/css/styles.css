@@ -85,15 +85,15 @@ body {
 }
 
 .fundo1 {
-    background-image: url("/assets/img/fundo-1.jpg");
+    background-image: url("../img/fundo-1.jpg");
 }
 
 .fundo2 {
-    background-image: url("/assets/img/fundo-2.jpg");
+    background-image: url("../img/fundo-2.jpg");
 }
 
 .fundo3 {
-    background-image: url("/assets/img/fundo-3.jpg");
+    background-image: url("../img/fundo-3.jpg");
 }
 
 .sliding-sec #search {
