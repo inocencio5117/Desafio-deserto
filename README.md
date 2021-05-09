@@ -14,6 +14,6 @@ Clique para acessar a página [Link](https://inocencio5117.github.io/Desafio-des
 * Textos animados
 * Animaçeões
 
-##Tecnologias Usadas
+## Tecnologias Usadas
 
 Nesse projeto foi usado Vanilla Javascript, CSS e HTML.
